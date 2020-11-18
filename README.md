@@ -1,2 +1,3 @@
-# Jb_study_project
-# Loan calculator project from JetBrains Academy
+# JetBrains Academy Study Projects:
+# Loan calculator 
+# Hangman
