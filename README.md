@@ -1,6 +1,2 @@
-# JetBrains Academy Study Projects:
-# Loan calculator 
-# Hangman
-# Simple Banking System
-# Rock-paper-scissors
-# HyperNews Project
+JetBrains Academy Study Projects
+
